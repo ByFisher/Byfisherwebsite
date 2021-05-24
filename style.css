@@ -1,0 +1,51 @@
+*{
+				list-style:none;
+				text-decoration:none;
+				
+}
+body {
+				
+}
+.lesson{
+				width:1000px;
+				height:60px;
+				background:#40a1ff;
+}
+ul.menu{
+			 color:#fff;
+}
+ul.menu >li{
+				float:left;
+			 border-right:1px solid rgba(110,0,0,.1);
+			 position:relative;
+}
+ul.menu >li >a{
+				display:block;
+				padding:0 15px;
+				color:#ffffff;
+			 line-height:50px;
+}
+.logo{
+				background:url();
+				width:250px;
+				height:250px;
+}
+.container{
+				width:850px;
+				height:3000px;
+				background:#fff;
+				border-radius:3px;
+				margin-left:7%;
+}
+#cf1{
+				font-size:20pt;
+}
+.end{
+				background:#000;
+				width:1000px;
+				height:75px;
+}
+#endfont{
+				color:#fff;
+				font-size:10pt;
+}
